@@ -1,5 +1,5 @@
-**Project Name:**Capstone Nextgen Project
-**Description:**This is a full-stack web application developed using the MERN stack. The project enables real-time interaction and data management, focusing on scalability, performance, and seamless user experience.
+## Project Name:Capstone Nextgen Project
+## Description:This is a full-stack web application developed using the MERN stack. The project enables real-time interaction and data management, focusing on scalability, performance, and seamless user experience.
 
 **Techologies:**
 ->HTML
